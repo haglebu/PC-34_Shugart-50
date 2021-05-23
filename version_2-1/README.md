@@ -7,7 +7,7 @@
 # Usage
 
 1. Use a standard twisted PC floppy cable (ie. drive A: connected AFTER the twist and drive B: BEFORE the twist).
-2. Jumper the 8" drive as the 1st drive (DRIVE SELECT 1, SH 50 pin 26), see figure 4 & 7. All other DS signals are not routed by this interface, so DS1 must ALWAYS be jumpered on the 8" drive; DS2-4 are a dead end.
+2. Jumper the 8" drive as the 1st drive (DRIVE SELECT 1, SH 50 pin 26). All other DS signals are not routed by this interface, so DS1 must ALWAYS be jumpered on the 8" drive; DS2-4 are a dead end.
 3. Connect the interface (Shugart-50) to the 8" drive using a suitable 50-pin cable and the appropriate adapters.
 4. Option 1: according to V1.2 / B: JP1 (2-3), JP2 (2-3)
     1. Connect the interface (PC-34) with the PC floppy cable header ...
