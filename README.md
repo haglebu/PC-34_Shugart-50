@@ -5,6 +5,12 @@ With the adapters presented here you can connect an old 8" floppy disk drive (FD
 
 ![pc34-to-s50_all](https://user-images.githubusercontent.com/52176362/119267985-2fe54880-bbf1-11eb-9756-ab84098677dc.jpg)
 
+# Circuit Diagram
+
+Version 2-0 & 2.1
+
+<img width="1357" alt="pc34-to-s50_eeschema_v2-x" src="https://user-images.githubusercontent.com/52176362/119275597-46ea6180-bc16-11eb-913f-f5e7175a0473.png">
+
 # Information
 
 For more information see: https://retrocmp.de/kicad/pc34-to-sh50/pc34-to-s50.htm
