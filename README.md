@@ -1,5 +1,5 @@
 # PC-34 to Shugart-50
-KiCad / Floppy disk drive adapter
+Floppy disk drive adapter for old 8" drives.
 
 With the adapters presented here you can connect an old 8" drive with Shugart 50 pin interface to a "modern" IBM compatible floppy controller with PC 34 pin interface. I have tested them all, they are working!
 
