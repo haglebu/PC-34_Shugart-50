@@ -2,6 +2,8 @@
 
 <img width="667" alt="pc34-to-s50_v2-0" src="https://user-images.githubusercontent.com/52176362/119268407-19d88780-bbf3-11eb-8cca-122837ce8735.png">
 
+![pc34-to-s50_v2-0_a](https://user-images.githubusercontent.com/52176362/119269772-ad14bb80-bbf9-11eb-84ca-fecfb275ea1e.jpg)
+
 # Usage
 
 1. Use a standard twisted PC floppy cable (ie. drive A: connected AFTER the twist and drive B: BEFORE the twist).
