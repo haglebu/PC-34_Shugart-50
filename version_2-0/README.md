@@ -17,3 +17,7 @@
       - ... BEFORE the twist. Then the 8" drive will be assigned as DOS drive -> A:
 
 With these two jumper options, you are very flexible with your floppy cable and your drive assignment.
+
+# Information
+
+https://retrocmp.de/kicad/pc34-to-sh50/pc34-to-s50.htm
