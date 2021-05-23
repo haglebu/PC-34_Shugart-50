@@ -1,4 +1,4 @@
-# Version 2.0
+# Version 2.1
 
 <img width="668" alt="pc34-to-s50_v2-1" src="https://user-images.githubusercontent.com/52176362/119269609-e4cf3380-bbf8-11eb-9f89-f99ac58fc353.png">
 
@@ -20,7 +20,7 @@
 
 With these two jumper options, you are very flexible with your floppy cable and your drive assignment.
 
-I personally find this version 2.0 the best because it is very compact. You do not need an additional 50p cable. You can connect the interface directly to the 8" drive.
+I personally find this version 2.1 the best because it is very compact. You do not need an additional 50p cable. You can connect the interface directly to the 8" drive.
 
 # Note
 
