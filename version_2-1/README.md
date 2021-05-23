@@ -2,6 +2,8 @@
 
 <img width="668" alt="pc34-to-s50_v2-1" src="https://user-images.githubusercontent.com/52176362/119269609-e4cf3380-bbf8-11eb-9f89-f99ac58fc353.png">
 
+![pc34-to-s50_v2-1_a](https://user-images.githubusercontent.com/52176362/119269819-ebaa7600-bbf9-11eb-89e4-d0762b8e8d36.jpg)
+
 # Usage
 
 1. Use a standard twisted PC floppy cable (ie. drive A: connected AFTER the twist and drive B: BEFORE the twist).
@@ -17,6 +19,8 @@
       - ... BEFORE the twist. Then the 8" drive will be assigned as DOS drive -> A:
 
 With these two jumper options, you are very flexible with your floppy cable and your drive assignment.
+
+I personally find this version 2.0 the best because it is very compact. You do not need an additional 50p cable. You can connect the interface directly to the 8" drive.
 
 # Note
 
