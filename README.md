@@ -7,7 +7,7 @@ With the adapters presented here you can connect an old 8" floppy disk drive (FD
 
 # Circuit Diagram
 
-Version 2-0 & 2.1
+Version 2-0
 
 <img width="1357" alt="pc34-to-s50_eeschema_v2-x" src="https://user-images.githubusercontent.com/52176362/119275597-46ea6180-bc16-11eb-913f-f5e7175a0473.png">
 
