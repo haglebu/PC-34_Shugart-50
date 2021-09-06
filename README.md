@@ -17,4 +17,4 @@ For more information see: https://retrocmp.de/kicad/pc34-to-sh50/pc34-to-s50.htm
 
 # Note
 
-*There is also another type of adapter that looks the same at first glance but has a different internal wiring. You need this type if you want to connect a "modern" floppy disk drive (5.25" or 3.5") to an „old“ 50 pin floppy disk controller (like Tandy/Radio Shack; not IBM compatible).*
+*There is also another type of adapter that looks the same at first glance but has a different internal wiring. You need this type if you want to connect a "modern" floppy disk drive (5.25" or 3.5") to an „old“ 50 pin floppy disk controller (like Tandy/Radio Shack; not IBM compatible). See here: https://gitlab.com/NF6X_Retrocomputing/fd50to34/*
